@@ -1,6 +1,0 @@
-dependencies:
-- matplotlib
-- pandas
-- xlrd
-- numpy
-- pylab
